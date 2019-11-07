@@ -1,2 +1,1 @@
-# SDDNet
-# SDDNet
+Sample images of SDDNet
